@@ -1,8 +1,16 @@
 # Hotel_Booking_Demands
 
-Cancellation of reservations has had a significant impact on demand management decisions within the hotel industry. In order to mitigate the impact of cancellations, hotels all over the world implement strict cancellation policies and overbooking strategies, which in turn may have a negative impact on revenue and hotel reputation. In order to alleviate the difficulties caused by cancellations, the hotel has implemented strict cancellation policies and overbooking strategies. These strategies will subsequently negatively affect revenue and social reputation and damage the hotel’s business performance. Overbooking forces the hotel to refuse to provide services, which can be a bad experience for customers and negatively affect the hotel’s reputation and direct revenue.
+Background
+In the hotel industry, revenue management is applicable to provide the right rooms and prices to the right guests at the right time through the right distribution channels.
+Additionally, this industry also accepts advance reservations, and they represent a
+contract between the customer and the hotel. This contract gives the customer the
+right to use the service at a fixed price in the future. Advanced booking is considered
+as one of the main predictors of hotel performance forecasting. However, a customer
+can choose to cancel their booking before the service is being provided. This option
+to cancel puts the hotel at risk as it will force the hotel to bear the cost of vacant
+rooms.
 
+The goal of this study:
 
-##The goal of this study
 The goal of this study is to predict whether a hotel booking request received is subject
 to a cancellation given its booking information with key attributes.
